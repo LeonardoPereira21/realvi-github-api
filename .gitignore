@@ -1,0 +1,17 @@
+# OS related
+.DS_STORE
+Thumbs.db
+
+# IDE
+.idea
+
+# Dependencies
+node_modules
+
+# Misc.
+*.log
+*.orig
+
+# Built artifacts
+/coverage
+/dist
